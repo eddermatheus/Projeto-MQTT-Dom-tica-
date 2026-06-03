@@ -1,3 +1,2 @@
-#Apresentando um trabalho de **MQTT** ***
-domótico através de um simulador simples de casinha e seu respectivo código dando seus comandos.
- - 
+# Apresentando um trabalho de **MQTT**
+Um trabalho simulando um sitemazinho domótico divertido, com um simulador de casinhas e seu respectivo código também disponível para os comandos
