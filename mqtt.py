@@ -22,7 +22,7 @@ janela.geometry("400x350")
 # 🌞 IRRADIÂNCIA (MONITOR)
 irradiancia_var = tk.StringVar()
 irradiancia_var.set("0")
-tk.Label(janela,text= "🏠Sistema de domótica do Edder⚡", font=("Arial",14, "bold"), fg ="darkblue").pack(pady=15)
+tk.Label(janela,text= "🏠Sisteminha de domótica⚡", font=("Arial",14, "bold"), fg ="darkblue").pack(pady=15)
 tk.Label(janela, text="☀️ Irradiância Solar:", font = ("Arial",18,"bold")).pack()
 tk.Label(janela, textvariable=irradiancia_var, font=("Arial", 18,"bold")).pack()
 
